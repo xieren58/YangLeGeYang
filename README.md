@@ -22,7 +22,7 @@
 
 💻PC端抓包工具：Fiddler、Http Debugger  
 
-📱Android端抓包工具：HttpCarry  
+📱Android端抓包工具：HttpCanary  
 
 📱iPhone端抓包工具：Stream  
 
